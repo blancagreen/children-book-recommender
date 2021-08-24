@@ -11,7 +11,7 @@
 This is a final project for the AllWomen Academy Data Science Inmersive Course, ending in July 2021.
 The recording of the presentation is available [here](https://www.youtube.com/watch?v=Ke0LeeY-LK8&t=3413s) and a pdf file of the slides is included in this repository.
 
-The goal of this project was building a book recommender for children following two different approaches, the Item-Item based and the Content based, after first steps of EDA and Data Cleaning.  
+The aim of this project was to build a book recommender for children following two different approaches, the Item-Item based and the Content based, after first steps of EDA and Data Cleaning.  
 A gender analysis of a sample of the data was also carried out to conclude that the data was balanced before building the recommendation systems.
 
 The original datasets used for this purpose have been downloaded from this [site](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home).  
